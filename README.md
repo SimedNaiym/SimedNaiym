@@ -1,7 +1,3 @@
-Here is a personalized README file for your GitHub profile based on your CV:
-
----
-
 ### Hi there 👋, I am [Naiym](https://www.linkedin.com/in/Mohammed-NAIYM)! (Press to visit my LinkedIn) 😁
 
 Hello! My name is Mohammed Naiym, and I am currently a Data Engineering student at ENSIAS, Rabat, Morocco. Passionate about building robust data solutions, I have worked on various innovative projects that span data science, machine learning, and cloud solutions. This GitHub serves as a repository for my journey in data engineering, showcasing projects, tools, and concepts that excite me the most. 🚀
