@@ -27,7 +27,13 @@ Power BI, Tableau, Matplotlib, Seaborn, Plotly
 
 ![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimedNaiym&count_private=true&show_icons=true&include_all_commits=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimedNaiym&hide=TeX&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anasaadi02&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-![Visitors count](https://komarev.com/ghpvc/?username=SimedNaiym)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=anasaadi02&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
