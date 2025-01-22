@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Naiym](https://www.linkedin.com/in/Mohammed-NAIYM)! (Press to visit my LinkedIn) 😁
 
-Hello! My name is Mohammed Naiym, and I am currently majoring in Data Engineering student at ENSIAS, Rabat, Morocco. Passionate about building robust data solutions, I have worked on various innovative projects that span data science, machine learning, and cloud solutions. This GitHub serves as a repository for my journey in data engineering, showcasing projects, tools, and concepts that excite me the most. 🚀
+Hello! My name is Mohammed Naiym, and I am currently majoring in Data Engineering at ENSIAS. Passionate about building robust data solutions, I have worked on various innovative projects that span data science, machine learning, and cloud solutions. This GitHub serves as a repository for my journey in data engineering, showcasing projects, tools, and concepts that excite me the most. 🚀
 
 I transitioned into data engineering because because I love it more and I believe in the power of data to transform industries, and I'm thrilled to share my projects and ideas with you!
 
