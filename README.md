@@ -20,11 +20,11 @@ I transitioned into data engineering because because I love it more and I believ
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,gcp,gitlab)](https://skillicons.dev)
 
 **Databases:**  
-[![My Skills](https://skillicons.dev/icons?i=MySQL, PostgreSQL, MongoDB, Cassandra, Redshift, DynamoDB, Snowflake  )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,cassandra,redshift,dynamodb,snowflake)](https://skillicons.dev)
   
 
 **Data Visualization & BI:**  
-Power BI, Tableau, Matplotlib, Seaborn, Plotly  
+[![My Skills](https://skillicons.dev/icons?i=powerbi,tableau,matplotlib,seaborn,plotly)](https://skillicons.dev)
 
 ![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimedNaiym&count_private=true&show_icons=true&include_all_commits=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimedNaiym&hide=TeX&layout=compact)
