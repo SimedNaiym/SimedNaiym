@@ -14,13 +14,15 @@ I transitioned into data engineering because because I love it more and I believ
 [![My Skills](https://skillicons.dev/icons?i=py,java,scala,c,cpp,bash,sql,html,css)](https://skillicons.dev)
 
 **Big Data Tools:**  
-Hadoop, Spark, Hive, HBase, Kafka, Airflow  
+[![My Skills](https://skillicons.dev/icons?i=Hadoop, Spark, Hive, HBase, Kafka, Airflow  )](https://skillicons.dev)
+
 
 **Cloud and DevOps:**  
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,gcp,gitlab)](https://skillicons.dev)
 
 **Databases:**  
-MySQL, PostgreSQL, MongoDB, Cassandra, Redshift, DynamoDB, Snowflake  
+[![My Skills](https://skillicons.dev/icons?i=MySQL, PostgreSQL, MongoDB, Cassandra, Redshift, DynamoDB, Snowflake  )](https://skillicons.dev)
+  
 
 **Data Visualization & BI:**  
 Power BI, Tableau, Matplotlib, Seaborn, Plotly  
