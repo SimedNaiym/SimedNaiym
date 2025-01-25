@@ -11,7 +11,7 @@ I transitioned into data engineering because because I love it more and I believ
 - ⚡ Fun fact: I love organizing events and exploring the intersection of tech and leadership.  
 
 **Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=py,java,scala,c,cpp,bash,sql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,scala,c,cpp,bash,sql,html,css,js)](https://skillicons.dev)
 
 **Big Data Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=hadoop,spark,hive,hbase,kafka,airflow  )](https://skillicons.dev)
